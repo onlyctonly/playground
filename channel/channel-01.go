@@ -1,3 +1,21 @@
 package main
 
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
+	c := make(chan int)
+	go func() {
+		for i:=0;i<10;i++ {
+			c<-i
+		}
+		//close(c) why print so many 0?
+	}()
+	go func() {
+		for {fmt.Println(<-c)}
+	}()
+	time.Sleep(time.Second)
+}
 
