@@ -1,0 +1,155 @@
+Login;Name;Group;Country;City;State;Zip;Address;Phone;Email;Comment;ID;Status;Reg.date;Leverage;Agent;Balance;Credit;IR;Taxes;MetaQuotes ID;Lead Source
+5000;Test ZuluTrade;amfxZT-USD;United States;;;;;;test@zulutrade.com;4cPgBuW;;;2016.06.20 21:47;1 : 200;0;1.18;0.00;0.00;0.00;;www.metaquotes.net
+12533;Test ZuluTrade;amfxZT-EUR;United States;;;;;;test@zulutrade.com;1ypaxiF;;;2016.06.20 21:47;1 : 200;0;0.46;0.00;0.00;0.00;;www.metaquotes.net
+12534;Test ZuluTrade;amfxZT-RUB;United States;;;;;;test@zulutrade.com;PnZ6ffF;;;2016.06.20 21:48;1 : 200;0;25.92;0.00;0.00;0.00;;www.metaquotes.net
+13061;Gorbunov Aleksei;amfxZT-USD;Russia;;;;;;likelihood55@gmail.com;;;;2016.09.08 14:57;1 : 200;0;0.30;0.00;0.00;0.00;;
+13062;Gorbunov Aleksei;amfxZT-RUB;Russia;;;;;;likelihood55@gmail.com;;;;2016.09.08 15:39;1 : 200;0;0.00;0.00;0.00;0.00;B1A3C07E;www.metaquotes.net
+13099;Shuntikov Artem Viktorovich;amfxZT-USD;Russia;;;;;;shuntikov@mail.ru;;;;2016.09.13 07:50;1 : 200;0;0.00;0.00;0.00;0.00;3D4318FA;www.metaquotes.net
+13109;Orlov Valerii Georgievich;amfxZT-RUB;Russia;;;;;;orlov-68@mail.ru;;;;2016.09.14 03:29;1 : 200;0;0.00;0.00;0.00;0.00;;
+13134;Ovsianik Aleksandr Vasilevith;amfxZT-USD;Russia;;;;;;ovsyanik1970@mail.ru;;;;2016.09.16 14:33;1 : 200;0;0.00;0.00;0.00;0.00;;
+13166;Bodin Sergey Constantinovich;amfxZT-USD;Russia;;;;;;sergey.201@gmail.com;;;;2016.09.21 19:11;1 : 200;0;0.00;0.00;0.00;0.00;;www.metaquotes.net
+13182;Shereminskii Sergei Alekseevich;amfxZT-USD;Russia;;;;;;shereminskij@yandex.ru;;;;2016.09.24 11:57;1 : 200;0;0.00;0.00;0.00;0.00;;
+13187;Danilov Vitalii Vitalevich;amfxZT-RUB;Russia;;;;;;forexpert2015@gmail.com;;;;2016.09.25 16:24;1 : 200;0;0.00;0.00;0.00;0.00;;
+13214;Moroz Valerii Nikolaevich;amfxZT-USD;Russia;;;;;;walerini@gmail.com;;;;2016.09.27 19:57;1 : 200;0;0.00;0.00;0.00;0.00;;
+13218;Riabchenkov Aleksandr;amfxZT-USD;Russia;;;;;;igra412@list.ru;;;;2016.09.28 12:15;1 : 200;0;0.00;0.00;0.00;0.00;;www.metaquotes.net
+13220;Mironov Aleksei Pavlovich;amfxZT-USD;Russia;;;;;;aleksey.p.mironov@gmail.com;;;;2016.09.28 13:31;1 : 200;0;0.00;0.00;0.00;0.00;039862F5;www.metaquotes.net
+13221;Shereminskii Sergei Alekseevich;amfxZT-RUB;Russia;;;;;;shereminskij@yandex.ru;;;;2016.09.28 13:32;1 : 200;0;0.00;0.00;0.00;0.00;4D389488;
+13228;Movchan Maksim Aleksandrovich;amfxZT-RUB;Russia;;;;;;m.a.movchan@gmail.com;;;;2016.09.29 08:47;1 : 200;0;0.00;0.00;0.00;0.00;DB67C575;www.metaquotes.net
+13267;Danilau Dzmitry Grigorevich;amfxZT-USD;;;;;;;bor_dan@outlook.com;;;;2016.10.05 04:42;1 : 200;0;0.00;0.00;0.00;0.00;;
+13337;Rao Nishanth;amfxZT-USD;;;;;;;wahbillionaire@gmail.com;;;;2016.10.14 05:06;1 : 200;0;0.00;0.00;0.00;0.00;;
+13341;Volokhonenko Sergei Aleksandrovich;amfxZT-USD;;;;;;;valohan68@yandex.ru;;;;2016.10.14 13:00;1 : 200;0;0.00;0.00;0.00;0.00;;
+13342;Hardzeichyk Viktor;amfxZT-USD;;;;;;;vik100368@yandex.ru;;;;2016.10.14 19:14;1 : 200;0;0.00;0.00;0.00;0.00;;
+13404;Popov Evgenii Mikhailovich;amfxZT-RUB;;;;;;;evgen_066rus@mail.ru;;;;2016.10.26 11:21;1 : 200;0;0.00;0.00;0.00;0.00;;
+13466;Anichev Oleg Ivanovich;amfxZT-RUB;;;;;;;anichevoleg@gmail.com;;;;2016.11.03 12:12;1 : 200;0;0.00;0.00;0.00;0.00;;
+13481;Makurin Aleksei;amfxZT-USD;;;;;;;mackurin.alexei@yandex.ru;;;;2016.11.06 18:30;1 : 100;0;0.00;0.00;0.00;0.00;;
+13483;Isaev Aleksei Vitalyevich;amfxZT-USD;;;;;;;lehabyrui@gmail.com;;;;2016.11.06 19:55;1 : 200;0;0.00;0.00;0.00;0.00;;
+13489;Kataev Dmitrii Anatolievich;amfxZT-USD;;;;;;;d.kataiev@gmail.com;;;;2016.11.07 10:52;1 : 200;0;0.00;0.00;0.00;0.00;;
+13492;Kataev Dmitrii Anatolievich;amfxZT-USD;;;;;;;d.kataiev@gmail.com;;;;2016.11.07 17:48;1 : 200;0;0.00;0.00;0.00;0.00;;
+13537;Karpov Aleksandr;amfxZT-USD;;;;;;;karpov.wq@yandex.ru;;;;2016.11.13 11:50;1 : 200;0;0.00;0.00;0.00;0.00;;
+13546;kan gennadii;amfxZT-USD;;;;;;;gena.kan.85@mail.ru;;;;2016.11.15 06:36;1 : 200;0;0.00;0.00;0.00;0.00;;
+13553;Klimov Aleksandr Vladimirovich;amfxZT-RUB;Russia;;;;;;alexklimov293@gmail.com;;;;2016.11.16 06:56;1 : 200;0;0.00;0.00;0.00;0.00;;
+13557;Klimov Aleksandr Vladimirovich;amfxZT-USD;;;;;;;alexklimov293@gmail.com;;;;2016.11.16 08:54;1 : 200;0;0.00;0.00;0.00;0.00;;
+13574;Vazhinskiy Andrey Viktorovich;amfxZT-USD;;;;;;;vajik76@gmail.com;;;;2016.11.17 12:40;1 : 200;0;0.00;0.00;0.00;0.00;;
+13611;Gorbov Dmitrii;amfxZT-USD;;;;;;;dmigorbov@yandex.ru;;;;2016.11.21 13:00;1 : 200;0;0.00;0.00;0.00;0.00;;
+13633;Polishchuk Aleksandr Eduardovich;amfxZT-RUB;;;;;;;foox2@mail.ru;;;;2016.11.22 12:44;1 : 200;0;0.00;0.00;0.00;0.00;;
+13662;chikhachev sergei;amfxZT-RUB;;;;;;;sch6586@yandex.ru;;;;2016.11.25 09:19;1 : 50;0;0.00;0.00;0.00;0.00;;
+13674;dokuchaev vladimir;amfxZT-USD;;;;;;;v.dokuchaeff2014@yandex.ru;;;;2016.11.26 21:05;1 : 200;0;0.00;0.00;0.00;0.00;;
+13681;Popikov Vladimir Sergeevich;amfxZT-USD;;;;;;;iltipkatalog@yandex.ru;;;;2016.11.27 16:15;1 : 200;0;0.00;0.00;0.00;0.00;;
+13683;Gaidamaka Aleksei;amfxZT-USD;;;;;;;alexg123456789@mail.ru;;;;2016.11.27 18:28;1 : 200;0;0.00;0.00;0.00;0.00;;
+13686;Nad Oksana;amfxZT-USD;;;;;;;ksyusha.nad@mail.ru;;;;2016.11.28 04:30;1 : 200;0;0.00;0.00;0.00;0.00;;
+13704;Vashchinuetc Anaseasiia;amfxZT-USD;;;;;;;vashinets.nastya@mail.ru;;;;2016.11.29 09:41;1 : 200;0;0.00;0.00;0.00;0.00;;
+13716;Kornev Vladimir Mikhailovich;amfxZT-RUB;;;;;;;radix-vite@yandex.ru;;;;2016.11.30 20:00;1 : 200;0;0.00;0.00;0.00;0.00;;
+13743;Vania Ivan;amfxZT-USD;Russia;;;;;;ic.icreator@hotmail.com;;;;2016.12.03 13:43;1 : 200;0;10.00;0.00;0.00;0.00;;www.metaquotes.net
+13744;Semenov Roman;amfxZT-RUB;Russia;;;;;;romario.trinet@yandex.ua;;;;2016.12.03 13:50;1 : 200;0;33.01;0.00;0.00;0.00;C176666C;www.metaquotes.net
+13745;trubachev viktor;amfxZT-USD;;;;;;;kalipsa-super@yandex.ru;;;;2016.12.03 15:06;1 : 200;0;0.00;0.00;0.00;0.00;;
+13750;Valieva Oksana;amfxZT-USD;;;;;;;oxborska@gmail.com;;;;2016.12.04 11:16;1 : 200;0;0.00;0.00;0.00;0.00;;
+13771;militdinov artem;amfxZT-RUB;Russia;;;;;;amilitdinov@gmail.com;;;;2016.12.07 02:08;1 : 200;0;0.00;0.00;0.00;0.00;FA981B8A;www.metaquotes.net
+13777;GUNIN viacheslav;amfxZT-USD;;;;;;;gunin.vyach@yandex.ru;;;;2016.12.07 15:55;1 : 200;0;0.00;0.00;0.00;0.00;;
+13783;sakhno dima;amfxZT-USD;;;;;;;megamaster@i.ua;;;;2016.12.07 18:18;1 : 200;0;0.00;0.00;0.00;0.00;;
+13784;Nazvanov Ilya Aleksandrovich;amfxZT-USD;;;;;;;ic.icreator@hotmail.com;;;;2016.12.07 18:37;1 : 200;0;0.00;0.00;0.00;0.00;;
+13786;sakhno dima;amfxZT-USD;;;;;;;megamaster@i.ua;;;;2016.12.07 19:00;1 : 200;0;0.00;0.00;0.00;0.00;;
+13798;Fedorov Valerii Petrovich;amfxZT-USD;;;;;;;gnome-ru@mail.ru;;;;2016.12.08 19:00;1 : 200;0;0.00;0.00;0.00;0.00;;
+13809;kuzmenko viktor ivanovich;amfxZT-USD;;;;;;;vikmen1@yandex.ru;;;;2016.12.09 17:36;1 : 200;0;0.00;0.00;0.00;0.00;;
+13816;Nazvanov Ilya Aleksandrovich;amfxZT-USD;;;;;;;ic.icreator@hotmail.com;;;;2016.12.12 08:57;1 : 200;0;0.00;0.00;0.00;0.00;;
+13820;Nazvanov Ilya Aleksandrovich;amfxZT-USD;;;;;;;ic.icreator@hotmail.com;;;;2016.12.12 11:55;1 : 200;0;0.00;0.00;0.00;0.00;;
+13857;Testov Test Testovich;amfxZT-USD;;;;;;;l.ikelihood55@gmail.com;;;;2016.12.15 16:21;1 : 200;0;0.00;0.00;0.00;0.00;;
+13866;Bushmakin Aleksandr;amfxZT-RUB;;;;;;;a-bushmakin@mail.ru;;;;2016.12.16 12:13;1 : 200;0;0.00;0.00;0.00;0.00;;
+13870;khutornoi vladislav;amfxZT-USD;;;;;;;ultramarin87@yandex.ru;;;;2016.12.17 18:04;1 : 200;0;0.00;0.00;0.00;0.00;;www.metatrader4.com
+13886;Tiutiunnik Andrei Aleksandrovitsch;amfxZT-RUB;;;;;;;2949669@gmail.com;;;;2016.12.20 06:32;1 : 200;0;0.00;0.00;0.00;0.00;;
+13898;Mironov Andrei Mikhailovich;amfxZT-USD;Ukraine;;;;;;senior.mirono2012@yandex.ru;;;;2016.12.21 09:30;1 : 200;0;0.00;0.00;0.00;0.00;9ED6B556;
+13908;Beloglazov Sergei;amfxZT-USD;;;;;;;sergon45@yandex.ru;;;;2016.12.21 17:10;1 : 200;0;0.00;0.00;0.00;0.00;;
+13924;Filippov Sergei Valentinovich;amfxZT-RUB;;;;;;;serezha-filippov-71@mail.ru;;;;2016.12.23 10:37;1 : 200;0;0.00;0.00;0.00;0.00;;
+13971;iakovlev iurii;amfxZT-USD;;;;;;;yakovlev.iura@yandex.ru;;;;2016.12.30 08:26;1 : 100;0;0.00;0.00;0.00;0.00;;
+13982;Kiselev  Vladimir Aleksandrovich;amfxZT-RUB;;;;;;;4ejiobek008@gmail.com;;;;2016.12.31 10:10;1 : 200;0;0.00;0.00;0.00;0.00;;
+13994;Iakovlev Iurii Vladimirovich;amfxZT-RUB;;;;;;;yakovlev.iura@yandex.ru;;;;2017.01.02 18:05;1 : 100;0;0.00;0.00;0.00;0.00;;
+14015;Bovykin Konstantin;amfxZT-USD;;;;;;;bovdk14@gmail.com;;;;2017.01.04 09:52;1 : 200;0;0.00;0.00;0.00;0.00;;
+14040;lukasevich maksim;amfxZT-USD;;;;;;;maxluka12@rambler.ru;;;;2017.01.06 00:04;1 : 200;0;0.00;0.00;0.00;0.00;;
+14043;Gavrilov Viacheslav;amfxZT-USD;;;;;;;gawpi@mail.ru;;;;2017.01.07 15:21;1 : 200;0;0.00;0.00;0.00;0.00;;
+14064;Abdullah  basri;amfxZT-USD;;;;;;;denisriyadi001@gmail.com;;;;2017.01.09 15:28;1 : 200;0;0.00;0.00;0.00;0.00;;
+14103;Kravtcov Aleksandr Viktorovich;amfxZT-RUB;;;;;;;n.t.f.start@gmail.com;;;;2017.01.12 05:24;1 : 200;0;0.00;0.00;0.00;0.00;;
+14153;Zhurgumbekov Akhmetkaliy Salarovich;amfxZT-USD;;;;;;;zhurgumbekov@bk.ru;;;;2017.01.16 17:52;1 : 200;0;0.00;0.00;0.00;0.00;;
+14154;Parvizi  Bakhtier Ibrokhimzoda;amfxZT-USD;;;;;;;parwiz-1992@mail.ru;;;;2017.01.16 18:23;1 : 100;0;0.00;0.00;0.00;0.00;;
+14158;Koncha Denis Nikolaevich;amfxZT-USD;;;;;;;denis.koncha@gmail.com;;;;2017.01.17 08:38;1 : 100;0;0.00;0.00;0.00;0.00;;
+14167;Boldyshev Viacheslav Viktorovich;amfxZT-USD;;;;;;;ajajdkg@mail.ru;;;;2017.01.17 14:30;1 : 200;0;0.00;0.00;0.00;0.00;;
+14204;Boris   Sergey   Nikolaievich;amfxZT-USD;;;;;;;sergey.boris.66@mail.ru;;;;2017.01.21 14:07;1 : 200;0;0.00;0.00;0.00;0.00;;
+14277;Sozonova Elena Aleksandrovna;amfxZT-USD;;;;;;;sozonova1975@inbox.ru;;;;2017.01.27 05:46;1 : 200;0;0.00;0.00;0.00;0.00;;
+14290;Gorbunov Aleksei;amfxZT-USD;;;;;;;likelihood55@gmail.com;;;;2017.01.27 12:15;1 : 200;0;0.00;0.00;0.00;0.00;;
+14291;Gorbunov Aleksei;amfxZT-USD;;;;;;;likelihood55@gmail.com;;;;2017.01.27 12:15;1 : 200;0;0.00;0.00;0.00;0.00;;
+14335;chertkov andrei;amfxZT-RUB;;;;;;;android_ru@mail.ru;;;;2017.01.29 13:52;1 : 200;0;0.00;0.00;0.00;0.00;;
+14337;kozit Evgenii;amfxZT-USD;;;;;;;perzik20@gmail.com;;;;2017.01.29 16:09;1 : 200;0;0.00;0.00;0.00;0.00;;
+14404;Bozduhan Denys Vadimovich;amfxZT-RUB;Ukraine;;;;;;mcmace@mail.ru;;;;2017.02.03 13:26;1 : 200;0;0.00;0.00;0.00;0.00;;www.metaquotes.net
+14428;CHUYKOV DMITRY Valeryvich;amfxZT-RUB;;;;;;;dm_logo@mail.ru;;;;2017.02.06 13:47;1 : 200;0;0.00;0.00;0.00;0.00;;
+14478;Stepantcov Gennadii Vasilevich;amfxZT-USD;;;;;;;stegera24@yandex.ru;;;;2017.02.09 18:46;1 : 200;0;0.00;0.00;0.00;0.00;;
+14479;Stepantcov Gennadii Vasilevich;amfxZT-USD;Russia;;;;;;stegera24@yandex.ru;;;;2017.02.09 18:51;1 : 100;0;1.51;0.00;0.00;0.00;EF526DCB;www.metaquotes.net
+14497;Gubar Sergei Vasilevich;amfxZT-USD;;;;;;;gubar68@bk.ru;;;;2017.02.11 14:06;1 : 200;0;0.00;0.00;0.00;0.00;;
+14501;Novokreshenov Andrey Viktorovich;amfxZT-USD;;;;;;;novokreshenov-a@mail.ru;;;;2017.02.11 17:56;1 : 200;0;0.00;0.00;0.00;0.00;;
+14526;Zaripov Ilgizar Hazipovich;amfxZT-USD;Russia;;;;;;ilgizarz@rambler.ru;;;;2017.02.14 10:58;1 : 200;0;0.07;0.00;0.00;0.00;E354629B;www.metaquotes.net
+14560;Akhmadullin Radik Shamilevich;amfxZT-USD;;;;;;;npbfxlogin@yandex.ru;;;;2017.02.15 14:19;1 : 200;0;0.00;0.00;0.00;0.00;;www.metatrader4.com
+14590;Bezpalko Aleksandr Vasilevich;amfxZT-USD;;;;;;;sasha.bezpalko@inbox.ru;;;;2017.02.16 09:56;1 : 200;0;0.00;0.00;0.00;0.00;;
+14713;Kondalarao Marneni;amfxZT-USD;;;;;;;marnenikondalarao25@gmail.com;;;;2017.02.17 10:12;1 : 200;0;0.00;0.00;0.00;0.00;;
+15037;Alberg Viktor;amfxZT-USD;Russian Federation;������;;;;;victor-alberg2017@yandex.ru;;;;2017.02.20 03:29;1 : 200;0;0.00;0.00;0.00;0.00;;
+15517;Nikonov Sviatoslav Evgenevich;amfxZT-RUB;Kazakhstan;���������;;;��. �����������, �. 3, ��. 1;;slavyandos@gmail.com;;;;2017.02.23 19:58;1 : 200;0;0.00;0.00;0.00;0.00;;
+15521;Nikonov Sviatoslav Evgenevich;amfxZT-RUB;Kazakhstan;���������;;;��. �����������, �. 3, ��. 1;;slavyandos@gmail.com;;;;2017.02.23 21:01;1 : 200;0;50.28;0.00;0.00;0.00;AD273A8F;
+15684; Rohim;amfxZT-USD;Indonesia;Jambi;;;Jl.Letkol. Ramil Lubis Gang Mulia II no.17;;rohim13@gmail.com;;;;2017.02.27 06:05;1 : 200;0;0.00;0.00;0.00;0.00;;
+15715;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;prd1117@gmail.com;;;;2017.02.27 09:59;1 : 200;0;0.00;0.00;0.00;0.00;2377CFFF;www.metaquotes.net
+15911;Miroshnichenko Denis Aleksandrovich;amfxZT-RUB;Russian Federation;������������;;;��. ��������, �. 57, ��. 63;;denito_94@bk.ru;;;;2017.03.01 15:29;1 : 200;0;0.00;0.00;0.00;0.00;324CDE71;www.metaquotes.net
+15917;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.01 16:16;1 : 200;0;0.00;0.00;0.00;0.00;2377CFFF;www.metaquotes.net
+15974;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.02 14:53;1 : 200;0;0.00;0.00;0.00;0.00;;
+15976;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.02 15:45;1 : 200;0;0.00;0.00;0.00;0.00;2377CFFF;www.metaquotes.net
+16065;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.03 20:27;1 : 200;0;0.00;0.00;0.00;0.00;2377CFFF;www.metaquotes.net
+16121;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.06 13:23;1 : 200;0;0.00;0.00;0.00;0.00;2377CFFF;www.metaquotes.net
+16122;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.06 13:30;1 : 200;0;0.00;0.00;0.00;0.00;;
+16132;Dolzhenkov Sergei Anatolevith;amfxZT-USD;Russian Federation;������;;;4���-��. 18�.54��.;;texas79-79@mail.ru;;;;2017.03.06 17:17;1 : 200;0;0.00;0.00;0.00;0.00;;
+16214;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.08 13:32;1 : 200;0;0.00;0.00;0.00;0.00;;
+16215;JOSHI MANJUNATH  SHRIPAD;amfxZT-USD;India;Hubli;;;No55 vanashri banashankari badawane vidya nagar Hubli;;mallu2850@gmail.com;;;;2017.03.08 13:44;1 : 200;0;0.00;0.00;0.00;0.00;2377CFFF;www.metaquotes.net
+16275;Lus Aleksandr Fedorovich;amfxZT-USD;Ukraine;�. ������������;;;��. ������, �. 62;;lusalex2017@gmail.com;;;;2017.03.09 18:22;1 : 200;0;0.92;0.00;0.00;0.00;;
+16454;Linkov Pavel Sergeevich;amfxZT-RUB;Russian Federation;������;;;��. ������, �. 73, ��. 7;;erl67@mail.ru;;;;2017.03.14 22:55;1 : 200;0;0.00;0.00;0.00;0.00;;
+16562;gavrilov sergei;amfxZT-USD;;������ �����;;;;;gabril123@yandex.ru;;;;2017.03.17 09:49;1 : 200;0;0.00;0.00;0.00;0.00;;
+16578;Boussama Imed;amfxZT-USD;Algeria;khenchela;;;120 logements;;imedbo4040@hotmail.com;;;;2017.03.17 17:10;1 : 200;0;0.00;0.00;0.00;0.00;;
+16800;Krokhin Pavel Voltovich;amfxZT-USD;Russian Federation;��������;;;��. ���������, �. 22, ��. 16;;kpvoltfx@mail.ru;;;;2017.03.23 14:54;1 : 200;0;0.00;0.00;0.00;0.00;;
+16855;Mamatkulov Baktybek Zhumabaevich;amfxZT-USD;Russian Federation;������;;;�������� ����, �. 30/1, ��. 65;;bosia-bakit@mail.ru;;;;2017.03.25 13:54;1 : 200;0;0.00;0.00;0.00;0.00;;
+16856;Mamatkulov Baktybek Zhumabaevich;amfxZT-USD;Russian Federation;������;;;�������� ����, �. 30/1, ��. 65;;bosia-bakit@mail.ru;;;;2017.03.25 13:58;1 : 200;0;0.00;0.00;0.00;0.00;;
+16857;Mamatkulov Baktybek Zhumabaevich;amfxZT-RUB;Russian Federation;������;;;�������� ����, �. 30/1, ��. 65;;bosia-bakit@mail.ru;;;;2017.03.25 13:59;1 : 200;0;0.00;0.00;0.00;0.00;;
+16859;Sagitov Ildar;amfxZT-USD;Russian Federation;������� ����;;;;;ildar.sagitov.63@mail.ru;;;;2017.03.25 15:06;1 : 200;0;0.00;0.00;0.00;0.00;;
+16860;Gvozdeva Irina Vladimirovna;amfxZT-USD;;������;;;��. �������, �. 88;;gwozdewa2012@gmail.com;;;;2017.03.25 15:18;1 : 200;0;0.00;0.00;0.00;0.00;;
+17192;dhibar chhotan;amfxZT-USD;India;kolkata;;;Vill P.O. Jugaswara;;fmoney127@gmail.com;;;;2017.04.03 09:45;1 : 200;0;0.00;0.00;0.00;0.00;;
+17229;Sokolov Igor Genadievich;amfxZT-USD;Russian Federation;��������;;;�����-27;;sokolov.igor.mvd@rambler.ru;;;;2017.04.04 06:20;1 : 200;0;0.00;0.00;0.00;0.00;;
+17356;Sobolev Aleksei Aleksandrovich;amfxZT-USD;Russian Federation;������;;;���. �������, �. 4, ��. 2;;as7701@yandex.ru;;;;2017.04.09 18:22;1 : 1;0;0.00;0.00;0.00;0.00;;
+17377;Danilov Vitalii Vitalevich;amfxZT-USD;Russian Federation;����������;;;4���, �. 16, ��. 22;;forexpert2015@gmail.com;;;;2017.04.10 20:00;1 : 100;0;0.00;0.00;0.00;0.00;;
+17385;Smirnova Nataliia Vasilievna;amfxZT-RUB;Russian Federation;�. �������;;;�. ������� �.10 ��.3;;nvsmirnova61@yandex.ru;;;;2017.04.11 09:12;1 : 200;0;0.00;0.00;0.00;0.00;;
+17409;Mirilenko Dmitry Valentinovich;amfxZT-RUB;Russian Federation;������;;;��. ������������� �.18 ��.13;;dvmirilenko@gmail.com;;;;2017.04.12 05:15;1 : 200;0;73.08;0.00;0.00;0.00;394D3EEE;
+17732;Larionov Dmitry Viktorovich;amfxZT-USD;Russian Federation;����;;;��.���������� 89 �� 5;;larionow.mitia2012@yandex.ru;;;;2017.04.26 01:00;1 : 200;0;0.00;0.00;0.00;0.00;;
+17756;Marjuki Ahmad Abdul;amfxZT-USD;Indonesia;Sragen;;;Sentonorejo Rt 15 Rw 05 Kelurahan Puro Kecamatan Karangmalang;;amarjuki95@gmail.com;;;;2017.04.26 16:26;1 : 200;0;0.00;0.00;0.00;0.00;28A44C5E;
+17771;dhibar chhotan;amfxZT-USD;India;kolkata;;;Vill P.O. Jugaswara;;fmoney127@gmail.com;;;;2017.04.27 09:43;1 : 200;0;0.00;0.00;0.00;0.00;;
+17774;Vpsichenko Aleksandr;amfxZT-USD;Russian Federation;�������;;;;;granit579@gmail.com;;;;2017.04.27 11:55;1 : 100;0;0.00;0.00;0.00;0.00;;
+17788;Kontk Anatolii;amfxZT-RUB;Russian Federation;�����;;;;;anatoly.conik@ya.ru;;;;2017.04.28 02:24;1 : 200;0;59.91;0.00;0.00;0.00;;www.metaquotes.net
+17851;srayyih abdulkareem haloom;amfxZT-USD;Iraq;suwaira;;;House 9 najma street suwaira wasit;;alsadouqstp@yahoo.com;;;;2017.05.01 16:52;1 : 200;0;0.00;0.00;0.00;0.00;;
+17853;Kurkova Natalia;amfxZT-USD;Russian Federation;����������;;;;;natali_k-2010@mail.ru;;;;2017.05.01 17:34;1 : 200;0;0.00;0.00;0.00;0.00;;
+17862;Abakshin Sergey Aleksandrovich;amfxZT-USD;Russian Federation;�������;;;������������ 16;;north.hell12@gmail.com;;;;2017.05.02 09:27;1 : 200;0;0.00;0.00;0.00;0.00;;
+17887;Cherevan Evgenii Vladimirovich;amfxZT-RUB;Russian Federation;��������;;;��������������� 15 - 15;;worm4683@mail.ru;;;;2017.05.03 09:42;1 : 200;0;2910.59;0.00;0.00;0.00;8629208E;codebase.list
+17909;artemjev yury;amfxZT-USD;Russian Federation;nikolckoe;;;;;yury.artemjev2015@yandex.ru;;;;2017.05.04 07:33;1 : 200;0;0.00;0.00;0.00;0.00;;
+17975;Tiushev Aleksandr;amfxZT-USD;Russian Federation;���������;;;;;tyushev94.94@mail.ru;;;;2017.05.05 19:30;1 : 200;0;0.00;0.00;0.00;0.00;;
+18160;Azimov Aziz Djurahonovich;amfxZT-USD;Russian Federation;�. �����;;;��. �������, �.39, ��. 29;;aziz.azim2018@yandex.ru;;;;2017.05.12 15:08;1 : 200;0;1.28;0.00;0.00;0.00;;www.metaquotes.net
+18172;Deriugin Eigenii;amfxZT-RUB;Russian Federation;�����������;;;;;zhenyaderugin@yandex.ru;;;;2017.05.13 14:47;1 : 200;0;0.00;0.00;0.00;0.00;;
+18187;Mironov Iurii Vitalievich;amfxZT-USD;Russian Federation;���. �����;;;��. ����������, �. 31;;urik-mironov@inbox.ru;;;;2017.05.14 13:14;1 : 200;0;0.00;0.00;0.00;0.00;;
+18284;Smailov Damir;amfxZT-USD;Kazakhstan;���������;;;;;2017treider@mail.ru;;;;2017.05.17 08:38;1 : 200;0;0.00;0.00;0.00;0.00;;
+18287;Vaskovskii Andrei;amfxZT-USD;Russian Federation;�������������;;;;;dealer77@mail.ru;;;;2017.05.17 09:30;1 : 200;0;141.38;0.00;0.00;0.00;F654FC59;www.metaquotes.net
+18348;Slepnev Leonid Yurievich;amfxZT-USD;Russian Federation;������;;;�� �.�.����� 2-180;;slepnewl@gmail.com;;;;2017.05.18 15:10;1 : 200;0;0.00;0.00;0.00;0.00;;
+18411;amelichkin viktor;amfxZT-USD;Russian Federation;�������;;;;;viktor.lopes@yandex.ru;;;;2017.05.20 18:19;1 : 200;0;0.00;0.00;0.00;0.00;;
+18412;amelichkin viktor;amfxZT-USD;Russian Federation;�������;;;;;viktor.lopes@yandex.ru;;;;2017.05.20 18:24;1 : 200;0;0.00;0.00;0.00;0.00;;
+18711;shmakov sergei;amfxZT-RUB;Russian Federation;��������;;;;;schmackow.ser@yandex.ru;;;;2017.05.28 11:09;1 : 200;0;0.00;0.00;0.00;0.00;;
+18849;Oglinde Vladislav Vladimirovich;amfxZT-USD;Ukraine;��� ������������;;;��. ����������, �. 36;;vlad-oglinda@mail.ru;;;;2017.05.31 19:22;1 : 200;0;0.00;0.00;0.00;0.00;;
+18854;Charyyev Nurmuhammet;amfxZT-USD;Turkmenistan;Mary;;;Shasenem 3-3;;smgfx@yandex.ru;;;;2017.06.01 00:56;1 : 200;0;28.72;0.00;0.00;0.00;12598CC4;www.metaquotes.net
+18935;Wardana Eka;amfxZT-USD;Indonesia;Kuningan;;;Dusun Citikur Rt.004 Rw.002;;verandaa33@gmail.com;;;;2017.06.05 00:27;1 : 200;0;0.00;0.00;0.00;0.00;95FF6727;
+18967;Hossain Delwar;amfxZT-USD;Bangladesh;Chittagong;;;North Agrabad 5abuj Bag Lane;;delwarhossain960@gmail.com;;;;2017.06.05 18:28;1 : 200;0;0.00;0.00;0.00;0.00;2F4A2BBB;
+19053;Gafiiatgullin Rinat Fanisovich;amfxZT-USD;Russian Federation;��������;;;��.�����������,22-9;;89134939256@mail.ru;;;;2017.06.08 11:46;1 : 200;0;0.00;0.00;0.00;0.00;;
+19064;Gafiiatgullin Rinat Fanisovich;amfxZT-USD;Russian Federation;��������;;;��.�����������,22-9;;89134939256@mail.ru;;;;2017.06.08 20:20;1 : 200;0;0.00;0.00;0.00;0.00;;
+19142;Khomutov Alexey Ivanovich;amfxZT-USD;Russian Federation;���������� �-�� ���. ������;;;��. ��������, �. 7, ��. 47;;a926401@yandex.ru;;;;2017.06.12 08:28;1 : 200;0;0.00;0.00;0.00;0.00;;
+19217;Burylin Dmitrii;amfxZT-USD;Russian Federation;������;;;;;burylin@rambler.ru;;;;2017.06.14 13:06;1 : 100;0;0.00;0.00;0.00;0.00;;
+19260;Indahsari Dona Christina;amfxZT-USD;Indonesia;Jakarta Timur;;;Taman Pulo Indah Blok Q4 No 10 ;;forexwati@yahoo.com;;;;2017.06.15 13:38;1 : 200;0;0.00;0.00;0.00;0.00;D3D2438F;
+19409;Panwar Belender;amfxZT-USD;India;Shamli;;;208, Bhainsaval-1, Gadhipukhata;;panwarlab@gmail.com;;;;2017.06.20 04:14;1 : 200;0;0.00;0.00;0.00;0.00;;
+19414;Alharazi  Adnan ;amfxZT-USD;Yemen;Sanaa;;;;;neeroking63@gmail.com;;;;2017.06.20 05:45;1 : 200;0;0.00;0.00;0.00;0.00;;
+19512;Sharipov Mirzomakhsud Mukhamadovich;amfxZT-USD;Tajikistan;��������;;;;;mirzomakhsud@icloud.com;;;;2017.06.22 01:02;1 : 200;0;0.00;0.00;0.00;0.00;;
+19561;Puzikov Iurii;amfxZT-RUB;Russian Federation;�����;;;;;ugp57@mail.ru;;;;2017.06.23 05:34;1 : 200;0;0.00;0.00;0.00;0.00;;
+19586;Zurabyan David Artur;amfxZT-USD;Armenia;Ijevan;;;Metagagorcneri 150;;davidzurabyan@mail.ru;;;;2017.06.23 16:48;1 : 200;0;0.00;0.00;0.00;0.00;;
+19655;Morozova Polina;amfxZT-USD;;�����;;;;;polina.morozova@businesspr-group.com;;;;2017.06.26 13:09;1 : 200;0;0.00;0.00;0.00;0.00;;

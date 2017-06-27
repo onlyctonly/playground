@@ -1,0 +1,42 @@
+package main
+
+import (
+	"bufio"
+	"encoding/csv"
+	"fmt"
+	"io"
+	"os"
+	"strconv"
+)
+
+func main() {
+	// Load a TXT file.
+	f, err := os.Open("test.csv")
+	if err != nil {
+		fmt.Println(err)
+	}
+	// Create a new reader.
+	r := csv.NewReader(bufio.NewReader(f))
+	r.Comma = ';'
+
+	m := map[string]int{"12532": 12532, "12533": 12533, "12534": 12534, "13061": 13061, "13743": 13743, "13744": 13744, "14479": 14479, "14526": 14526, "15521": 15521, "16275": 16275, "17409": 17409, "17788": 17788, "17887": 17887, "18160": 18160, "18287": 18287, "18854": 18854}
+
+	for {
+		record, err := r.Read()
+		// Stop at EOF.
+		if err == io.EOF {
+			break
+		}
+		// Display record.
+		// ... Display record length.
+		// ... Display all individual elements of the slice.
+
+		if v, _ := strconv.ParseFloat(record[16], 64); v > 0 {
+			_, ok := m[record[0]]
+			if !ok {
+				fmt.Println(record[0])
+			}
+		}
+
+	}
+}
