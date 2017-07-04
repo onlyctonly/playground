@@ -28,6 +28,6 @@ func main() {
 	}
 	syscall.Statfs("/", &state)
 
-	fmt.Println(state.Bfree * uint64(state.Bsize)/1024/1024/1024)
+	fmt.Println(float32(state.Bfree) * float32(state.Bsize)/1024.0/1024.0/1024.0)
 
 }
