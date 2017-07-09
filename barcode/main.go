@@ -21,7 +21,7 @@ func main() {
 	for scanner.Scan() {
 		io.WriteString(f2, head + scanner.Text() + tail)
 	}
-
+	defer f.Close()
 
 }
 
