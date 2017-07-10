@@ -4,11 +4,10 @@ import (
 	"bufio"
 	"encoding/csv"
 	"fmt"
-	//	"io"
+	"io"
 	"os"
 	"strconv"
-	//"time"
-	"io"
+	"time"
 )
 
 func check(e error) {
@@ -33,23 +32,27 @@ func main() {
 	check(err)
 
 	scanner := bufio.NewScanner(f1)
-	f3, err:=os.Create("Reports.csv")
+	f3, err := os.Create("Reports.csv")
 	defer f3.Close()
-	n:=0
+	n := 0
 	for scanner.Scan() {
-		n++
-		if n>0 {
-			_,err:=io.WriteString(f3, scanner.Text()+ "\n")
+
+		if n > 0 {
+			_, err := io.WriteString(f3, scanner.Text()+"\n")
 			check(err)
 		}
+		n++
 	}
+	f4, err := os.Open("Reports.csv")
+	check(err)
+
+	defer f4.Close()
 
 	// Create a new reader.
-	r := csv.NewReader(bufio.NewReader(f3))
+	r := csv.NewReader(bufio.NewReader(f4))
 	r.Comma = ';'
 	allAccounts, err := r.ReadAll() //how to delete first line, rather than manually
 	check(err)
-
 	//load activated accounts
 	f2, err := os.Open("activatedAccounts.csv")
 	defer f2.Close()
@@ -57,7 +60,6 @@ func main() {
 	r2 := csv.NewReader(bufio.NewReader(f2))
 	activatedAccounts, err := r2.ReadAll()
 	check(err)
-
 	for i := 1; i < len(allAccounts); i++ {
 		v, err := strconv.ParseFloat(allAccounts[i][16], 64)
 		check(err)
@@ -70,5 +72,5 @@ func main() {
 		}
 	}
 	fmt.Println("Check completed.")
-	//time.Sleep(time.Second*10)
+	time.Sleep(time.Second * 10)
 }
