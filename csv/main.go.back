@@ -8,7 +8,6 @@ import (
 	"os"
 	"strconv"
 	"time"
-	"path/filepath"
 )
 
 func check(e error) {
@@ -33,7 +32,7 @@ func main() {
 	check(err)
 
 	scanner := bufio.NewScanner(f1)
-	f3, err := os.Create(filepath.Join(os.TempDir(), "Reports.csv"))
+	f3, err := os.Create("Reports.csv")
 	defer f3.Close()
 	n := 0
 	for scanner.Scan() {
@@ -44,7 +43,7 @@ func main() {
 		}
 		n++
 	}
-	f4, err := os.Open(filepath.Join(os.TempDir(), "Reports.csv"))
+	f4, err := os.Open("Reports.csv")
 	check(err)
 
 	defer f4.Close()
