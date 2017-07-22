@@ -1,9 +1,10 @@
 package main
 
 import (
-	"sync"
 	"fmt"
+	"sync"
 )
+
 var wg sync.WaitGroup
 var counter int
 
@@ -15,10 +16,9 @@ func main() {
 	fmt.Println("final is: ", counter)
 }
 
-
-func incrementer(s string)  {
-	for i:=0;i<20;i++ {
-		x:=counter
+func incrementer(s string) {
+	for i := 0; i < 20; i++ {
+		x := counter
 		x++
 		counter = x
 		fmt.Println(s, i, "counter: ", counter)

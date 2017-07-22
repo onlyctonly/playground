@@ -16,12 +16,12 @@ func main() {
 	//	`
 	//)
 	type Email struct {
-		Gender string
+		Gender  string
 		Surname string
-		data []string
+		data    []string
 	}
 	if os.Args[1] == "mt4" {
-		e:=Email{"male", "jxyu", []string{"001","002"}}
+		e := Email{"male", "jxyu", []string{"001", "002"}}
 		fmt.Print(e.Gender+"\n", e.Surname+"\n", e.data[0], "\n", e.data[1], "\n")
 	}
 	//template gender surname

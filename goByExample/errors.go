@@ -84,4 +84,3 @@ func main() {
 		fmt.Println(ae.prob)
 	}
 }
-

@@ -1,9 +1,10 @@
 package main
 
 import (
-	"sync"
 	"fmt"
+	"sync"
 )
+
 var wg sync.WaitGroup
 var mutex sync.Mutex
 var counter int
@@ -16,11 +17,10 @@ func main() {
 	fmt.Println("final is: ", counter)
 }
 
-
-func incrementer(s string)  {
-	for i:=0;i<20;i++ {
+func incrementer(s string) {
+	for i := 0; i < 20; i++ {
 		mutex.Lock()
-		x:=counter
+		x := counter
 		x++
 		counter = x
 		fmt.Println(s, i, "counter: ", counter)

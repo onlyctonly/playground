@@ -1,26 +1,26 @@
 package main
 
 import (
-	"io/ioutil"
-	"fmt"
-	"os"
 	"archive/zip"
+	"fmt"
+	"io/ioutil"
+	"os"
 )
 
 func main() {
-	const dir  = "/Users/jxyu/Pictures"
-	f,err:=ioutil.ReadDir(dir)
+	const dir = "/Users/jxyu/Pictures"
+	f, err := ioutil.ReadDir(dir)
 	checkerr(err)
 
-	fzip,_:=os.Create("pic.zip")
+	fzip, _ := os.Create("pic.zip")
 	defer fzip.Close()
-	w:=zip.NewWriter(fzip)
+	w := zip.NewWriter(fzip)
 	defer w.Close()
 
-	for _,file := range f {
+	for _, file := range f {
 		if !file.IsDir() {
-			fw,_:=w.Create(file.Name())
-			filecontent, err:=ioutil.ReadFile(dir+"/"+file.Name())
+			fw, _ := w.Create(file.Name())
+			filecontent, err := ioutil.ReadFile(dir + "/" + file.Name())
 			checkerr(err)
 			fw.Write(filecontent)
 			checkerr(err)
@@ -29,8 +29,8 @@ func main() {
 
 }
 
-func checkerr(e error)  {
-	if e!=nil {
+func checkerr(e error) {
+	if e != nil {
 		fmt.Println(e)
 	}
 }

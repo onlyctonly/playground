@@ -1,15 +1,15 @@
 package main
 
 import (
-	"time"
 	"fmt"
 	"strconv"
+	"time"
 )
 
 func main() {
-	d:=time.Now().Add(time.Hour*24).Day()
-	m:=int(time.Now().Add(time.Hour*24).Month())
-	d2:= "0"+strconv.Itoa(d)
+	d := time.Now().Add(time.Hour * 24).Day()
+	m := int(time.Now().Add(time.Hour * 24).Month())
+	d2 := "0" + strconv.Itoa(d)
 	fmt.Println(d2)
 	fmt.Println(m)
 }

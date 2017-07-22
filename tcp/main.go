@@ -1,34 +1,34 @@
 package main
 
 import (
-	"net"
-	"fmt"
 	"bufio"
+	"fmt"
+	"net"
 )
 
 func main() {
-	li, err:=net.Listen(`tcp`, ":8080")
+	li, err := net.Listen(`tcp`, ":8080")
 	defer li.Close()
 	check(err)
 	for {
-		conn, err:=li.Accept()
+		conn, err := li.Accept()
 		check(err)
 		go handle(conn)
 	}
 }
 
 func check(e error) {
-	if e!=nil {
+	if e != nil {
 		fmt.Println(e)
 		return
 	}
 }
 func handle(c net.Conn) {
-	scanner:=bufio.NewScanner(c)
+	scanner := bufio.NewScanner(c)
 	for scanner.Scan() {
-		ln:=scanner.Text()
+		ln := scanner.Text()
 		fmt.Println(ln)
-		fmt.Fprintf(c,"you said: %s\n", ln)
+		fmt.Fprintf(c, "you said: %s\n", ln)
 	}
 	defer c.Close()
 }

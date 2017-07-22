@@ -24,7 +24,7 @@ func main() {
 	alpha := image.NewAlpha(image.Rect(0, 0, dx, dy))
 	for x := 0; x < dx; x++ {
 		for y := 0; y < dy; y++ {
-			alpha.Set(x, y, color.Alpha{uint8(255)})   //设定alpha图片的透明度
+			alpha.Set(x, y, color.Alpha{uint8(255)}) //设定alpha图片的透明度
 		}
 	}
 

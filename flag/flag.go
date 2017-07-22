@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	p1:=flag.Int("ip1", 1234, "ip 1234")
-	p2:=flag.Int("ip2", 8888, "ip 8888")
+	p1 := flag.Int("ip1", 1234, "ip 1234")
+	p2 := flag.Int("ip2", 8888, "ip 8888")
 	flag.Parse()
 	fmt.Println("ip1 value: ", *p1)
 	fmt.Println("ip2 value: ", *p2)
