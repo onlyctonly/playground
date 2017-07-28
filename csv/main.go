@@ -6,9 +6,8 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"strconv"
-	"time"
 	"path/filepath"
+	"strconv"
 )
 
 func check(e error) {
@@ -61,6 +60,12 @@ func main() {
 	r2 := csv.NewReader(bufio.NewReader(f2))
 	activatedAccounts, err := r2.ReadAll()
 	check(err)
+
+	// writing results to file start
+	f5, err := os.Create("pleaseCheck.txt")
+	defer f5.Close()
+
+	// writing results to file end
 	for i := 1; i < len(allAccounts); i++ {
 		v, err := strconv.ParseFloat(allAccounts[i][16], 64)
 		check(err)
@@ -68,10 +73,12 @@ func main() {
 			ac := allAccounts[i][0]
 			//start compare with activated accounts
 			if checkActivated(ac, activatedAccounts[0]) == false {
-				fmt.Println("This account needs to check in CP: ", ac)
+				_, err := io.WriteString(f5, ac+"\r\n")
+				check(err)
 			}
 		}
 	}
-	fmt.Println("Check completed.")
-	time.Sleep(time.Second * 10)
+	_, err = io.WriteString(f5, "\r\nCheck completed. Please check above broker username (if any) in cp.")
+	check(err)
+	os.Remove(filepath.Join(os.TempDir(), "Reports.csv"))
 }
