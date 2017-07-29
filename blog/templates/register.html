@@ -8,13 +8,15 @@
     <title>login</title>
 </head>
 <body>
-    <form method="post" action="/">
+    <form method="post">
         <h2>register</h2>
         <input type="text" name="username" placeholder="enter username">
         <input type="password" name="password" placeholder="enter password">
         <input type="submit">
     </form>
-
+{{if . }}
+{{.}}
+{{end}}
 
 </body>
 </html>

@@ -5,14 +5,14 @@
     <title>login</title>
 </head>
 <body>
-    <form method="post" action="/login">
-        <input type="text" name="username" placeholder="enter username">
-        <input type="password" name="password" placeholder="enter password">
+    <form method="post">
+        <input type="text" name="username" placeholder="enter username"><br>
+        <input type="password" name="password" placeholder="enter password"><br>
         <input type="submit">
     </form>
-{{if .Username}}
-username {{.Username}}
-password {{.Password}}
+
+{{if .}}
+    {{.}}
 {{end}}
 </body>
 </html>
